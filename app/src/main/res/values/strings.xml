@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie Buzz</string>
+    <string name="movie_url1">http://beta.json-generator.com/api/json/get/41M1XVfF</string>
+    <string name="movie_url2">http://www.json-generator.com/api/json/get/cpLylIjqWa?indent=2</string>
+    <string name="movie_1">Movie Image</string>
+    <string name="lbl_homepage">Homepage : </string>
+    <string name="lst_start">1</string>
+    <string name="lst_limit">15</string>
+</resources>

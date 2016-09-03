@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android_Course\LearningMaterial\Cert_Project\MovieApp\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="E:\Android_Course\LearningMaterial\Cert_Project\MovieApp\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-24.0.0_bfe8839e22ddb01abbd77c4d64b21aefd393e2b1.jar" />
+    </item>
+    <item
+        jar="E:\Android_Course\LearningMaterial\Cert_Project\MovieApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="E:\Android_Course\LearningMaterial\Cert_Project\MovieApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_0fb3a66667e789af7d52c04fd261a6e2d0bdaedd.jar" />
+    </item>
+    <item
+        jar="C:\Users\suhit_000\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.2\d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27\picasso-2.3.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="E:\Android_Course\LearningMaterial\Cert_Project\MovieApp\app\build\intermediates\pre-dexed\debug\picasso-2.3.2_6aa8d7ddad77c5a2f9acbfd514c4518c000d9ae9.jar" />
+    </item>
+    <item
+        jar="E:\Android_Course\LearningMaterial\Cert_Project\MovieApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d4e80ba774e66bd0512e8c7c28ebe01bb211fcc4">
+        <dex dex="E:\Android_Course\LearningMaterial\Cert_Project\MovieApp\app\build\intermediates\pre-dexed\debug\instant-run_4e0af7cf08f39067fe7a174f2d21c589b2d1905d.jar" />
+    </item>
+    <item
+        jar="E:\Android_Course\LearningMaterial\Cert_Project\MovieApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="E:\Android_Course\LearningMaterial\Cert_Project\MovieApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_35b2a968108bdeae6ad9fdf4a35302a133a8bb42.jar" />
+    </item>
+    <item
+        jar="C:\Users\suhit_000\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.0.0\2943c74db6d4346ab8c6531adac91fa05c137c40\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="E:\Android_Course\LearningMaterial\Cert_Project\MovieApp\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_38c8a96b777bb6340e5e237e90da36bfb005de47.jar" />
+    </item>
+    <item
+        jar="E:\Android_Course\LearningMaterial\Cert_Project\MovieApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="E:\Android_Course\LearningMaterial\Cert_Project\MovieApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_0075d1214843a6b48b6331432d6b1f5932fc2f26.jar" />
+    </item>
+    <item
+        jar="E:\Android_Course\LearningMaterial\Cert_Project\MovieApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="E:\Android_Course\LearningMaterial\Cert_Project\MovieApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_0c985672038f4f3ab11a560129222a4fdda19fad.jar" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="E:\Android_Course\LearningMaterial\Cert_Project\MovieApp\app\build\intermediates\pre-dexed\debug\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e.jar" />
+    </item>
+    <item
+        jar="E:\Android_Course\LearningMaterial\Cert_Project\MovieApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="bdfc092037bc9dec26a19d78d681e6b03862bf35">
+        <dex dex="E:\Android_Course\LearningMaterial\Cert_Project\MovieApp\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_074b448986e56bca663658b0d57bb36e3271636d.jar" />
+    </item>
+    <item
+        jar="E:\Android_Course\LearningMaterial\Cert_Project\MovieApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="E:\Android_Course\LearningMaterial\Cert_Project\MovieApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_5f67c8332d1c227a4be6ebf5609b958e7f341ac2.jar" />
+    </item>
+
+</items>
